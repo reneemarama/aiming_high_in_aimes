@@ -8,7 +8,7 @@
 
 [Link to Ames Accolades](https://www.cityofames.org/about-ames/awards-accolades-achievements)
 
-[Link to Data](./Project_2_Ames_Housing-Copy1.ipynb)
+[Link to Jupiter Notebook](./Project_2_Ames_Housing-Copy1.ipynb)
 
 
 ## **The Data:**
