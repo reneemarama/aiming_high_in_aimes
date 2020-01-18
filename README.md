@@ -1,4 +1,4 @@
-# Project 1: Aiming High in Ames**
+# Project 1: Aiming High in Ames
 
 ---
 
@@ -48,7 +48,7 @@ After multiple iterations, analysis showed that using the highest correlated fea
 
 Multi Linear Regression, Standard Scalar and Ridge all had similar outcomes on predicted sales prices as well as average error (RMSE). All three outperformed LASSO. Based on simplicity and comparable results I used Multi Linear Regression to get the R2 score for the final outcome. The final algorithm was able to predict, on average, about 88% of the variance expressed in the data within about 20k dollars of the actual sale price. As we can see in the graph below, houses valued under 350k dollars closely fit the linear regression line while houses over 350k or not as closely captured and were therefor left out of the final model (which was appropriate for Aiming High in Ames specifications). 
 
-![Linear Regression](./Plots/lr_plots.png)
+![Linear Regression](./Plots/lr_plot.png)
 
 
 ## **Future Recommendations:**
